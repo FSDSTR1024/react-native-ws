@@ -163,9 +163,11 @@ expo register
 ### 3. Creación de un proyecto básico con Expo
 
 Crear un proyecto:
+https://docs.expo.dev/tutorial/create-your-first-app/
 
 ```bash
 npx create-expo-app@latest
+npm run reset-project  //script to remove the boilerplate code
 npx create-expo-app myApp --template blank
 ```
 
